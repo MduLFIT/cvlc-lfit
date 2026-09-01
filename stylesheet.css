@@ -14,7 +14,7 @@ p {
   font-family: Courier New, monospace;
 }
 body {
-  background-image: url("bg2.jpg");
+  background-color : rgb(58, 120, 153);
   background-size: cover;
   margin-left : 150px;
   margin-right : 150px;
